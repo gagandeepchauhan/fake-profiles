@@ -1,3 +1,9 @@
 {
-    "name": "typicode"
+    "profiles": [
+        {
+            "id": 1,
+            "name": "sky",
+            "url": "https://avatars.dicebear.com/api/male/john.svg?mood[]=happy&mood[]=sad"
+        }
+    ]
 }
