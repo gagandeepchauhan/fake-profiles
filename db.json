@@ -3,7 +3,242 @@
         {
             "id": 1,
             "name": "sky",
-            "url": "https://avatars.dicebear.com/api/male/john.svg?mood[]=happy&mood[]=sad"
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_1.svg"
+        },
+        {
+            "id": 2,
+            "name": "gagan",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_2.svg"
+        },
+        {
+            "id": 3,
+            "name": "aasmaan",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_3.svg"
+        },
+        {
+            "id": 4,
+            "name": "nabh",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_4.svg"
+        },
+        {
+            "id": 5,
+            "name": "aakash",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_5.svg"
+        },
+        {
+            "id": 6,
+            "name": "rishi",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_6.svg"
+        },
+        {
+            "id": 7,
+            "name": "sunak",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_7.svg"
+        },
+        {
+            "id": 8,
+            "name": "cherry",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_8.svg"
+        },
+        {
+            "id": 9,
+            "name": "happy",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_9.svg"
+        },
+        {
+            "id": 10,
+            "name": "amara",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_10.svg"
+        },
+        {
+            "id": 11,
+            "name": "naruto",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_11.svg"
+        },
+        {
+            "id": 12,
+            "name": "sasuke",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_12.svg"
+        },
+        {
+            "id": 13,
+            "name": "sakura",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_13.svg"
+        },
+        {
+            "id": 14,
+            "name": "rock lee",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_14.svg"
+        },
+        {
+            "id": 15,
+            "name": "kakashi",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_15.svg"
+        },
+        {
+            "id": 16,
+            "name": "ino",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_16.svg"
+        },
+        {
+            "id": 17,
+            "name": "inata",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_17.svg"
+        },
+        {
+            "id": 18,
+            "name": "gara",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_18.svg"
+        },
+        {
+            "id": 19,
+            "name": "hokage",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_19.svg"
+        },
+        {
+            "id": 20,
+            "name": "jonin",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_20.svg"
+        },
+        {
+            "id": 21,
+            "name": "chunin",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_21.svg"
+        },
+        {
+            "id": 22,
+            "name": "genin",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_22.svg"
+        },
+        {
+            "id": 23,
+            "name": "rookie",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_23.svg"
+        },
+        {
+            "id": 24,
+            "name": "priya",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_24.svg"
+        },
+        {
+            "id": 25,
+            "name": "sky",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_25.svg"
+        },
+        {
+            "id": 26,
+            "name": "gagan",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_26.svg"
+        },
+        {
+            "id": 27,
+            "name": "aasmaan",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_27.svg"
+        },
+        {
+            "id": 28,
+            "name": "nabh",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_28.svg"
+        },
+        {
+            "id": 29,
+            "name": "aakash",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_29.svg"
+        },
+        {
+            "id": 30,
+            "name": "rishi",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_30.svg"
+        },
+        {
+            "id": 31,
+            "name": "sunak",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_31.svg"
+        },
+        {
+            "id": 32,
+            "name": "cherry",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_32.svg"
+        },
+        {
+            "id": 33,
+            "name": "happy",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_33.svg"
+        },
+        {
+            "id": 34,
+            "name": "amara",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_34.svg"
+        },
+        {
+            "id": 35,
+            "name": "naruto",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_35.svg"
+        },
+        {
+            "id": 36,
+            "name": "sasuke",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_36.svg"
+        },
+        {
+            "id": 37,
+            "name": "sakura",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_37.svg"
+        },
+        {
+            "id": 38,
+            "name": "rock lee",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_38.svg"
+        },
+        {
+            "id": 39,
+            "name": "kakashi",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_39.svg"
+        },
+        {
+            "id": 40,
+            "name": "ino",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_40.svg"
+        },
+        {
+            "id": 41,
+            "name": "inata",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_41.svg"
+        },
+        {
+            "id": 42,
+            "name": "gara",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_42.svg"
+        },
+        {
+            "id": 43,
+            "name": "hokage",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_43.svg"
+        },
+        {
+            "id": 44,
+            "name": "jonin",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_44.svg"
+        },
+        {
+            "id": 45,
+            "name": "chunin",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_45.svg"
+        },
+        {
+            "id": 46,
+            "name": "genin",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_46.svg"
+        },
+        {
+            "id": 47,
+            "name": "rookie",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_47.svg"
+        },
+        {
+            "id": 48,
+            "name": "priya",
+            "url": "https://avatars.dicebear.com/api/avataaars/sky_avatar_48.svg"
         }
     ]
 }
